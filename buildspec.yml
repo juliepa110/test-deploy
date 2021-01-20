@@ -2,10 +2,11 @@ version: 0.2
 
 phases:
   install:
-    runtime-versions:
+    commands:
+      - echo install started on `date`
   pre_build:
     commands:
-      - echo Nothing to do in the pre_build phase...
+      - echo pre_build started on `date`
   build:
     commands:
       - echo Build started on `date`
