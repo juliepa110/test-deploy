@@ -1,0 +1,101 @@
+[33mcommit c0c0aa012a977251afafe6c8f63e8491b2626d11[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Wed Jan 27 15:55:52 2021 +0900
+
+    master
+
+[33mcommit 42fc940b709d0fb331d384dc14c18ae69b8f8ab9[m[33m ([m[1;31morigin/test-branch02/test03[m[33m, [m[1;32mtest-branch02/test03[m[33m)[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Wed Jan 27 15:49:23 2021 +0900
+
+    test-branch02/test03
+
+[33mcommit a65881f2c915be786e36c8f1d95a4a8bdb05b6ef[m[33m ([m[1;31morigin/test-branch02/test02[m[33m, [m[1;32mtest-branch02/test02[m[33m)[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Wed Jan 27 10:31:42 2021 +0900
+
+    test-branch02/test02 修正
+
+[33mcommit fb9bd5cc8826145c878249aa03e11938fe459f36[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Wed Jan 27 09:10:27 2021 +0900
+
+    test-branch02/test02
+
+[33mcommit 96efd446ac7de1698d011eb83df18ea6d945c20f[m[33m ([m[1;31morigin/test-branch02/test01[m[33m, [m[1;32mtest-branch02/test01[m[33m)[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Mon Jan 25 18:43:39 2021 +0900
+
+    test-branch02/test01
+
+[33mcommit a8001faf448789a91bcb468bfd6c8452fde445b8[m[33m ([m[1;31morigin/test-branch01[m[33m, [m[1;32mtest-branch01[m[33m)[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Thu Jan 21 16:38:54 2021 +0900
+
+    test-branch01
+
+[33mcommit 2c194635648c06d6bb76a2400631202f6edb4b6d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Thu Jan 21 16:26:22 2021 +0900
+
+    github_6-2 -> rana
+
+[33mcommit 39c5c286ab45e77e81a81956f2795861a67d48de[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Wed Jan 20 18:45:01 2021 +0900
+
+    rana -> github_6-2
+
+[33mcommit 27bc872b223155fba02711bb6470a88cff60fefc[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Wed Jan 20 18:41:10 2021 +0900
+
+    rana -> github_6
+
+[33mcommit d259a4471d8c3c16f4c17c23f9fb5e4883292bf0[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Wed Jan 20 16:23:53 2021 +0900
+
+    buildspec.yml commit_04
+
+[33mcommit cea9662d3fc3fed80b49b57e29e6d1a89999d428[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Wed Jan 20 15:41:35 2021 +0900
+
+    buildspec.yml commit03
+
+[33mcommit b982b1fe751523e71bcda84f3ef8876785620d5d[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Wed Jan 20 14:57:48 2021 +0900
+
+    buildspec.yml commit_02
+
+[33mcommit 28dd4879e7fb72e68d792f8196b1a8ca9f0bdd66[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Wed Jan 20 12:49:03 2021 +0900
+
+    buildspec.yml commit
+
+[33mcommit 800fe8d229b5154f05de445dce33f5218514bf78[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Wed Jan 20 10:57:57 2021 +0900
+
+    inu -> rana
+
+[33mcommit 7a5e8a0731edaff7346d9cde4f1c27f579ca1935[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Wed Jan 20 08:01:58 2021 +0900
+
+    rana->inu
+
+[33mcommit f3ba231aecab500d6e60772a9905c5c179fd09e8[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Tue Jan 19 16:12:49 2021 +0900
+
+    second commit
+
+[33mcommit 8489ca1305a783eedfb8d3f8a8e1880ea2a5d012[m
+Author: Toshiya Nishiyama <gzn01112@yahoo.co.jp>
+Date:   Fri Jan 15 15:09:44 2021 +0900
+
+    first commit
