@@ -6,7 +6,7 @@ phases:
       - echo install started on `date`
       - yum update -y 2>&1 >/dev/null
       - yum install -y perl-Digest-MD5
-      - wget -q0- http://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz | tar xvz 2>&1 >/dev/null
+      - wget -qO- http://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz | tar xvz 2>&1 >/dev/null
       - echo "I" | ./install-tl*/install-tl -no-gui -repository http://mirror.ctan.org/systems/texlive/tlnet/
       - /usr/local/texlive/????/bin/*/tlmgr path add
       - pip3 install -U sphinx
