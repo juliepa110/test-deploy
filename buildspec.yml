@@ -19,6 +19,7 @@ phases:
       - node -v
       - npm -v
       - python --version
+      - mysql -V
   post_build:
     commands:
       - echo Build completed on `date`
