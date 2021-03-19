@@ -1,4 +1,4 @@
-FROM amazonlinux:2
+FROM 013224766800.dkr.ecr.us-west-2.amazonaws.com/docker-test-base-image AS docker_build_custom_image
 
 # Install dependencies
 RUN yum -y update 2>&1 >/dev/null
