@@ -1,4 +1,4 @@
-FROM 137112412989.dkr.ecr.us-east-1.amazonaws.com/amazonlinux
+FROM 137112412989.dkr.ecr.us-west-2.amazonaws.com/amazonlinux
 
 # Install dependencies
 RUN yum -y update 2>&1 >/dev/null
