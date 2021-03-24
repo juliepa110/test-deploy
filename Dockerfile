@@ -1,4 +1,4 @@
-FROM 137112412989.dkr.ecr.us-west-2.amazonaws.com/amazonlinux
+FROM 013224766800.dkr.ecr.us-west-2.amazonaws.com/docker-test-base-image AS docker_build_custom_image
 
 # Install dependencies
 RUN yum -y update 2>&1 >/dev/null
@@ -7,4 +7,5 @@ RUN yum install -y http://dev.mysql.com/get/mysql80-community-release-el6-3.noar
 RUN yum-config-manager --disable mysql80-community  2>&1 >/dev/null
 RUN yum-config-manager --enable mysql57-community  2>&1 >/dev/null
 RUN yum install -y mysql-community-client  2>&1 >/dev/null
+RUN mysql -V
 #
