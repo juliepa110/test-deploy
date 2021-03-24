@@ -1,4 +1,4 @@
-FROM 137112412989.dkr.ecr.us-east-1.amazonaws.com/amazonlinux2 AS Amazon Linux container image
+FROM 137112412989.dkr.ecr.us-east-1.amazonaws.com/amazonlinux:2 AS Amazon Linux container image
 
 # Install dependencies
 RUN yum -y update 2>&1 >/dev/null
